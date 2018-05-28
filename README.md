@@ -1,2 +1,2 @@
 # Prison wallet
-~more coming soon~
+\~more coming soon\~
